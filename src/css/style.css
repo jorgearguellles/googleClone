@@ -2,15 +2,6 @@ html {
 	font-size: 62.5%;
 }
 
-/* Happy variables */
-:root {
-	--font-size-primary: 1.4rem;
-	--font-size-title: 10rem;
-	--font-family: arial, sans-serif;
-	--font-color: #808488;
-	--background-color: #f2f2f2;
-}
-
 /* Styles */
 body {
 	margin: 0;
@@ -44,7 +35,7 @@ header nav .nav-right-section {
 }
 
 nav .nav-right-section a {
-	margin-right: 1rem;
+	margin-right: 1.5rem;
 	color: var(--font-color);
 }
 
@@ -59,7 +50,7 @@ nav .nav-right-section .menu-icon {
 
 nav .nav-right-section img {
 	border-radius: 50%;
-	margin-left: 1rem;
+	margin-left: 1.5rem;
 }
 
 main {
@@ -74,7 +65,7 @@ main .main-logo {
 }
 
 main .main-logo img {
-	width: 30rem;
+	width: 27rem;
 }
 
 main .main-input {
@@ -84,7 +75,7 @@ main .main-input {
 }
 
 main .main-input-container {
-	width: 52.5rem;
+	width: 60rem;
 	border-radius: 10rem;
 	border: 1px solid #edeef1;
 	display: flex;
@@ -98,7 +89,7 @@ main .main-input-container:hover {
 }
 
 main .main-input input {
-	width: 45rem;
+	width: 53rem;
 	height: 4rem;
 	border: none;
 	outline: none;
