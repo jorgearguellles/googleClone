@@ -8,5 +8,5 @@ In 20201 I´m back to the basic way.
 * CSS
 * BEM
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=github-googleClone&cache_seconds=86400&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=googleClone&cache_seconds=86400&theme=vue-dark)
 
