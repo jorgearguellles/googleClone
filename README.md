@@ -8,4 +8,4 @@ In 20201 I´m back to the basic way.
 * CSS
 * BEM
 
-[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=github-readme-googleClone&cache_seconds=86400&theme=vue-dark
+[Google Clone`s Stats]: https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=github-jorgearguelles-googleClone&cache_seconds=86400&theme=vue-dark
