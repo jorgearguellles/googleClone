@@ -7,6 +7,3 @@ In 20201 I´m back to the basic way.
 * HTML
 * CSS
 * BEM
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=googleClone&cache_seconds=86400&theme=vue-dark)
-
