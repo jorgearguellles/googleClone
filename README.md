@@ -7,9 +7,8 @@ In 20201 I´m back to the basic way.
 
 Esta hecha con :green_heart: y:
 
+- [Estructura con HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Estilos con CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [Componentes y lógica en Vanilla JavaScript](https://es.reactjs.org)
-- [Datos de Rock and Morty API](https://rickandmortyapi.com)
 - [Desplegada en GitHub Pages](https://pages.github.com)
 
 ## Autor
@@ -23,7 +22,7 @@ Esta hecha con :green_heart: y:
 
 ## Vista
 
-![App Screenshot](https://github.com/jorgearguellles/spa_RickAndMorty_API/blob/main/public/img/screenshot.png)
+![App Screenshot](https://github.com/jorgearguellles/googleClone/blob/main/img/1.png)
 
 ## Retroalimentación
 
